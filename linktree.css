@@ -42,9 +42,9 @@ header {
 }
 
 a, a:active, a:focus, a:hover {
-  color: inherit;
+  color: rgb(47, 47, 47);
   text-decoration: none;
-  background: none;
+  background: rgb(212, 212, 212);
   outline: none;
 }
 
@@ -54,3 +54,4 @@ main{
     width: 100%;
     flex-direction: column;
 }
+
