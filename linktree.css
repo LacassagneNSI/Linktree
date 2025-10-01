@@ -51,7 +51,7 @@ a, a:active, a:focus, a:hover {
 .app:hover {
     background-color: rgb(212, 212, 212);
     color: rgb(47, 47, 47);
-    transform: scale(1.25);
+    transform: scale(1.1);
 }
 main{
     display: flex;
@@ -59,6 +59,7 @@ main{
     width: 100%;
     flex-direction: column;
 }
+
 
 
 
