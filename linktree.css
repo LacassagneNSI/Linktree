@@ -33,6 +33,7 @@ header {
     min-width: 300px;
     border-radius: 45px;
     margin: 1%;
+    height: 100%;
 }
 
 .app h1 {
@@ -60,6 +61,7 @@ main{
     width: 100%;
     flex-direction: column;
 }
+
 
 
 
